@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/macreai/LeetHub/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/macreai/LeetHub/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/macreai/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/macreai/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/macreai/LeetHub/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/macreai/LeetHub/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
