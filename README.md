@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/macreai/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/macreai/LeetHub/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/macreai/LeetHub/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/macreai/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/macreai/LeetHub/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/macreai/LeetHub/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,8 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/macreai/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/macreai/LeetHub/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/macreai/LeetHub/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/macreai/LeetHub/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
