@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/macreai/LeetHub/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/macreai/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/macreai/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/macreai/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -69,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/macreai/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/macreai/LeetHub/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
