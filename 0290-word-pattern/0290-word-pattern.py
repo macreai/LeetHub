@@ -13,5 +13,3 @@ class Solution:
             if word != words[i]:
                 return False 
         return True
-
-        
