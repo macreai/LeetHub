@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/macreai/LeetHub/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/macreai/LeetHub/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/macreai/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/macreai/LeetHub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/macreai/LeetHub/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/macreai/LeetHub/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/macreai/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
