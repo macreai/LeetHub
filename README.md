@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/macreai/LeetHub/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/macreai/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/macreai/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/macreai/LeetHub/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/macreai/LeetHub/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/macreai/LeetHub/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/macreai/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/macreai/LeetHub/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/macreai/LeetHub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/macreai/LeetHub/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/macreai/LeetHub/tree/master/0389-find-the-difference) |
+| [0692-top-k-frequent-words](https://github.com/macreai/LeetHub/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/macreai/LeetHub/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/macreai/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/macreai/LeetHub/tree/master/0389-find-the-difference) |
+| [0692-top-k-frequent-words](https://github.com/macreai/LeetHub/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/macreai/LeetHub/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/macreai/LeetHub/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/macreai/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/macreai/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/macreai/LeetHub/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -126,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/macreai/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/macreai/LeetHub/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/macreai/LeetHub/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
